@@ -1,0 +1,2 @@
+package: github.com/tkitsunai/dockerfiles/golang-tools/glide/sample
+import: []
